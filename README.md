@@ -1,4 +1,5 @@
 Data Visualization Portfolio | 2026
+
 A portfolio of business intelligence, data analysis, and visualization projects focused on transforming data into actionable business insights. This portfolio demonstrates analytical problem-solving, profitability analysis, data preparation, interactive reporting, and data-driven decision-making using Tableau, Power BI, Excel, SQL, and Python.
 
 Featured Projects
