@@ -14,10 +14,16 @@ Business Question: Which customer segments and service tiers should be reviewed 
 Dashboard: Explore the Account Portfolio Analysis https://public.tableau.com/views/BNAN_Retail_Order_Analysis_Pt_2_17900574812170/AccountPortfolioDashboard?:language=en-US&:display_count=n&:origin=viz_share_link 
 Key Finding / Next Step: Investigate the costs and account characteristics contributing to negative net contribution in the Consumer and Corporate Inside Sales segments.
 
+3. Card Portfolio Review – Contactless Readiness
+
+Business Question: Which non-contactless cards should Bear Down Bank prioritize for early replacement this quarter to maximize impact while controlling costs?
+Dashboard: Explore the Contactless Readiness Analysis View Tableau Dashboard https://public.tableau.com/views/CardPortfolioReviewContactlessReadiness_17923951667150/ExploratoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Key Finding / Recommendation: Prioritize 355 of the 440 eligible non-contactless cards expiring April–December 2027, representing 80.68% of the eligible batch, at an estimated replacement cost of $2,840. Pareto-style cumulative analysis identifies the months accounting for approximately 80% of eligible cards.
+What I Would Change: I would validate month-year aggregation and cumulative calculations earlier to prevent expiration counts from different years being combined and make the prioritization threshold clearer from the start.
 
 DataCamp Certifications
 
-3. Introduction to Power BI
+1. Introduction to Power BI
 
 Completion Date: September 29, 2026
 Provider: DataCamp, in collaboration with Microsoft
@@ -31,7 +37,7 @@ Key Insights
 - Interactive Reporting: Filters, slicers, and drill-downs help users investigate trends and compare business performance.
 - Reporting Efficiency: Integrated data modeling and visualization can reduce manual reporting work and simplify recurring updates.
 
-4. Introduction to DAX in Power BI
+2. Introduction to DAX in Power BI
 
 Completion Date: October 4, 2026
 Provider: DataCamp
@@ -45,7 +51,7 @@ Key Insights
 - Measures and Filter Context: Measures can recalculate based on the current report context, supporting interactive comparisons.
 - Business Application: Average price-cost differences help stakeholders compare products, subject to the costs included in the source data.
 
-5. Data Visualization in Power BI
+3. Data Visualization in Power BI
 
 Completion Date: October 12, 2026
 Provider: DataCamp
