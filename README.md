@@ -21,6 +21,13 @@ Dashboard: Explore the Contactless Readiness Analysis View Tableau Dashboard htt
 Key Finding / Recommendation: Prioritize 355 of the 440 eligible non-contactless cards expiring April–December 2027, representing 80.68% of the eligible batch, at an estimated replacement cost of $2,840. Pareto-style cumulative analysis identifies the months accounting for approximately 80% of eligible cards.
 What I Would Change: I would validate month-year aggregation and cumulative calculations earlier to prevent expiration counts from different years being combined and make the prioritization threshold clearer from the start.
 
+4. Wildcat Rewards Card Growth Analysis
+
+Business Question: Which customer markets should Bear Down Bank prioritize to expand its Wildcat Rewards credit card portfolio, focusing on states with lower existing credit card penetration and customers eligible for a new card?
+Dashboard: Explore the Wildcat Rewards Card Growth Analysis Tableau Dashboard https://public.tableau.com/views/CardGrowthAnalysis-WildcatRewardOffers/ExploratoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Key Finding / Recommendation: Target Texas, Colorado, Nevada, and Utah as a combined long-term growth market because all four states have credit card penetration below the 35% threshold. Together, these states contain 92 eligible customers out of 207 customers (44.44%) at the required FICO cutoff of 670. Eligibility requires a FICO score of at least 670, no existing Bear Down Bank credit card, and a debt-to-income ratio below 2.0. DC is excluded from the target group because its customer base consists of only one customer, limiting its potential scale.
+What I Would Change: I would evaluate eligible-customer counts alongside eligibility rates earlier in the analysis to distinguish markets with a larger potential mailing audience from those with a higher concentration of eligible customers. I would also make the 35% penetration threshold and the combined four-state recommendation more prominent so leadership can quickly understand the rationale for the target markets.
+
 DataCamp Certifications
 
 1. Introduction to Power BI
