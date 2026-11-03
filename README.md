@@ -34,6 +34,7 @@ What I Would Change: I would evaluate eligible-customer counts alongside eligibi
 Work sample for Renee Castillo, Director of Card Operations at Bear Down Bank: replace the 355 non-contactless cards expiring April through December 2027 early, for $2,840.
 
 Adobe Express Info graphic https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:cab7c3fb-7c5a-5991-ac8c-c53dc82354a1?accept=true&invite=true&promoid=Z2G1FQKR&mv=other 
+[Work sample (PDF, click to download)](https://github.com/Rishi1725/Data_visualization_portfolio_2026/raw/main/adobe/nahar-data-storytelling.pdf) · [Adobe Express](PASTE-EXPRESS-LINK)
 
 Design choice: I paired a donut chart of all 1,693 non-contactless cards with a quarterly bar chart of the 440 that won't renew on schedule, because Renee's decision depends on separating cards that will be replaced anyway from the ones worth paying to replace early. I considered keeping the monthly bar chart from my Tableau work, but grouping by quarter made the 2027 batch readable at a glance. I removed the month-by-month 2028–2030 detail; those 85 cards are years from expiring and only pulled attention away from the 355-card batch.
 
