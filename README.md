@@ -28,7 +28,19 @@ Dashboard: Explore the Wildcat Rewards Card Growth Analysis Tableau Dashboard ht
 Key Finding / Recommendation: Target Texas, Colorado, Nevada, and Utah as a combined long-term growth market because all four states have credit card penetration below the 35% threshold. Together, these states contain 92 eligible customers out of 207 customers (44.44%) at the required FICO cutoff of 670. Eligibility requires a FICO score of at least 670, no existing Bear Down Bank credit card, and a debt-to-income ratio below 2.0. DC is excluded from the target group because its customer base consists of only one customer, limiting its potential scale.
 What I Would Change: I would evaluate eligible-customer counts alongside eligibility rates earlier in the analysis to distinguish markets with a larger potential mailing audience from those with a higher concentration of eligible customers. I would also make the 35% penetration threshold and the combined four-state recommendation more prominent so leadership can quickly understand the rationale for the target markets.
 
-DataCamp Certifications
+
+5. Nov 2, 2026 · Data Storytelling with Adobe Express
+
+Work sample for Renee Castillo, Director of Card Operations at Bear Down Bank: replace the 355 non-contactless cards expiring April through December 2027 early, for $2,840.
+
+Adobe Express Info graphic https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:cab7c3fb-7c5a-5991-ac8c-c53dc82354a1?accept=true&invite=true&promoid=Z2G1FQKR&mv=other 
+
+Design choice: I paired a donut chart of all 1,693 non-contactless cards with a quarterly bar chart of the 440 that won't renew on schedule, because Renee's decision depends on separating cards that will be replaced anyway from the ones worth paying to replace early. I considered keeping the monthly bar chart from my Tableau work, but grouping by quarter made the 2027 batch readable at a glance. I removed the month-by-month 2028–2030 detail; those 85 cards are years from expiring and only pulled attention away from the 355-card batch.
+
+Adobe Digital Academy for Data storytelling Training completed: 11/02/2026
+
+
+AI use: Anthropic. (2026). Claude (Opus 5.5) [Large language model]. https://claude.ai. Used Nov 2, 2026, for logo design, page design ideas, and cross checking calculations. 
 
 1. Introduction to Power BI
 
